@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 5px solid black;
+    min-height: 100vh; 
+}
+
+.form-container {
+    margin-left: 50px; 
+    text-align: left;
+
+}
+
+.form-button {
+    background-color: lightskyblue;
+    margin-top: 10px;
+    border: 2px solid black;
+    
+}
